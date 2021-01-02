@@ -42,7 +42,7 @@ public class ProviderApplication {
         //8)挂起线程，避免服务停止
         System.out.println("server is started");
         System.in.read();
-        
+
         //SpringApplication.run(ProviderApplication.class, args);
     }
 
